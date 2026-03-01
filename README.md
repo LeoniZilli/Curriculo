@@ -28,8 +28,3 @@ Este projeto consiste em um currículo profissional desenvolvido em HTML5, CSS3 
 • O currículo está disponível via GitHub Pages:  
 👉 https://leonizilli.github.io/Curriculo/
 
----
-
-## ⚙️ Como Executar Localmente
-
-1. Baixe o projeto ou clone o repositório:
